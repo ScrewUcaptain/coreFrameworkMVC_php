@@ -1,0 +1,15 @@
+{
+    "name": "suc/php-mvc-core",
+    "authors": [
+        {
+            "name": "ScrewUcaptain",
+            "email": "basilebrusseau@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "suc\\phpmvc": "."
+        }
+    }
+}
