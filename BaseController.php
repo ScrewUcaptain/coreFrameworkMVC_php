@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace suc\phpmvc;
 
-use app\core\middlewares\BaseMiddleware;
+use suc\phpmvc\middlewares\BaseMiddleware;
 
 class BaseController
 {

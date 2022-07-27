@@ -1,9 +1,9 @@
 <?php 
 
-namespace app\core\middlewares;
+namespace suc\phpmvc\middlewares;
 
-use app\core\Application;
-use app\core\exception\ForbiddenException;
+use suc\phpmvc\Application;
+use suc\phpmvc\exception\ForbiddenException;
 
 class AuthMiddleware extends BaseMiddleware // midleware for ungranted permissions to certains pages defined in the constructor like so  ['login', 'register'] to guest users 
 {
