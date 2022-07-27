@@ -1,0 +1,10 @@
+{
+    "name": "suc/php-mvc-core",
+    "authors": [
+        {
+            "name": "ScrewUcaptain",
+            "email": "basilebrusseau@gmail.com"
+        }
+    ],
+    "require": {}
+}
